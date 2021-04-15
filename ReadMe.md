@@ -1,7 +1,5 @@
 # Sparkify Cassandra ETL
 
-This is the second project submission for the Data Engineering Nanodegree.
-
 This project consists of putting into practice the following concepts:
 - Data modeling with Cassandra
 - ETL pipeline using Python
@@ -23,5 +21,3 @@ As the data engineer assigned to the project, I have implemented an ETL pipeline
 
 Launch **Project_1B_ Project_Template.ipynb** to run validation and example queries.
 
-## Author 
-Mostafa Reda [linkedin](https://www.linkedin.com/in/mostafaali96/)
